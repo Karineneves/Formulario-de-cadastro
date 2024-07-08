@@ -1,0 +1,22 @@
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #91b68d;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #91b68d;
+}
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
+.form-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
